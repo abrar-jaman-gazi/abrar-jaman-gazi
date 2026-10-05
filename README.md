@@ -69,7 +69,7 @@ A responsive workout library and workout logging application where users can bro
 ## 📈 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abrar-jaman-gazi&theme=tokyo-night&hide_border=true" alt="GitHub Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abrar-jaman-gazi&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Contribution Graph" width="100%" />
 </p>
 
 ---
