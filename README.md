@@ -72,10 +72,10 @@ A responsive workout library and workout logging application where users can bro
   </tr>
 </table>
 
-## 📈 Contribution Activity
+## 📈 GitHub Contribution Activity
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abrar-jaman-gazi&theme=github" width="100%" alt="GitHub contribution activity for Abrar Jaman Gazi" />
+  <img src="https://ghchart.rshah.org/2563eb/abrar-jaman-gazi" alt="Abrar Jaman Gazi GitHub contribution graph" width="100%" />
 </p>
 
 ---
