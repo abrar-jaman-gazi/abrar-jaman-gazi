@@ -69,7 +69,7 @@ A responsive workout library and workout logging application where users can bro
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=abrar-jaman-gazi&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-vercel.vercel.app?user=abrar-jaman-gazi&theme=tokyonight&hide_border=true" height="170" alt="GitHub Streak" />
 </p>
 
 ---
