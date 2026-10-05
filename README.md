@@ -61,10 +61,16 @@ A responsive workout library and workout logging application where users can bro
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abrar-jaman-gazi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="49%" alt="Abrar Jaman Gazi GitHub statistics" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrar-jaman-gazi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" width="49%" alt="Abrar Jaman Gazi top programming languages" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=abrar-jaman-gazi&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&card_width=420" width="100%" alt="Abrar Jaman Gazi GitHub statistics" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrar-jaman-gazi&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&card_width=420" width="100%" alt="Abrar Jaman Gazi top programming languages" />
+    </td>
+  </tr>
+</table>
 
 ---
 
